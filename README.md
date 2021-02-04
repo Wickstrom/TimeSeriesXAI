@@ -1,6 +1,6 @@
 # Uncertainty and interpretablity in classification of clinical time series
 
-Code used in the article "Uncertainty-Aware Deep Ensembles for Reliable and Explainable Predictions of Clinical Time Series".
+Code used in the article "Uncertainty-Aware Deep Ensembles for Reliable and Explainable Predictions of Clinical Time Series" (https://arxiv.org/abs/2010.11310).
 
 ## Experiments on synthetic data
 
